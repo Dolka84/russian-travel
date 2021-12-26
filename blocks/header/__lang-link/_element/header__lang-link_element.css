@@ -12,3 +12,6 @@
 .header__lang-link_element:last-child {
 	margin-right: 0;
 }
+.header__lang-link_element:first-child {
+  text-decoration: underline;
+}

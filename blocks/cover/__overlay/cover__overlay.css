@@ -2,6 +2,7 @@
 	min-height: 740px;
 	text-decoration: none;
   color: #ffffff;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   justify-content: center;

@@ -1,6 +1,4 @@
 .cover {
-	width: 1184px;
-	height: 740px;
-	transform: translateX(-12.5%);
-  margin-left: 48px;
+  margin: 0 auto;
+  padding: 92px 48px 0;
 }
