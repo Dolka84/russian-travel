@@ -5,3 +5,22 @@
 	display: grid;
 	gap: 80px;
 }
+@media screen and (max-width: 1194px) {
+  .places {
+    max-width: 90.625%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .places {
+    max-width: 93.75%;
+    gap: 73px;
+    padding-top: 88px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .places {
+    max-width: 100%;
+    gap: 50px;
+    padding-top: 64px;
+  }
+}

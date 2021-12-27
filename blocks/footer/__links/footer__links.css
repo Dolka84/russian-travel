@@ -6,3 +6,13 @@
 .footer__links:last-of-type {
   margin-right: 0;
 }
+@media screen and (max-width: 630px) {
+  .footer__links {
+    display: block;
+    margin-bottom: 32px;
+    margin-right: 0;
+  }
+  .footer__links:last-of-type {
+    margin-bottom: 0;
+  }
+}
