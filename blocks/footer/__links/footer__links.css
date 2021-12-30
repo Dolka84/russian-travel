@@ -6,7 +6,7 @@
 .footer__links:last-of-type {
   margin-right: 0;
 }
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 690px) {
   .footer__links {
     display: block;
     margin-bottom: 32px;
