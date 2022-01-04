@@ -1,18 +1,18 @@
-.footer__links {
+.footer__links  {
+  margin: 0;
+  padding: 0;
+  display: flex;
   list-style: none;
-  display: inline;
-  margin-right: 18px;
+  justify-content: space-between;
 }
-.footer__links:last-of-type {
+.footer__links li a:last-child {
   margin-right: 0;
 }
 @media screen and (max-width: 690px) {
   .footer__links {
-    display: block;
-    margin-bottom: 32px;
-    margin-right: 0;
+    flex-direction: column;
   }
-  .footer__links:last-of-type {
+  .footer__links:last-child {
     margin-bottom: 0;
   }
 }
