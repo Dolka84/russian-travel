@@ -5,14 +5,8 @@
   list-style: none;
   justify-content: space-between;
 }
-.footer__links li a:last-child {
-  margin-right: 0;
-}
 @media screen and (max-width: 690px) {
   .footer__links {
     flex-direction: column;
-  }
-  .footer__links:last-child {
-    margin-bottom: 0;
   }
 }
