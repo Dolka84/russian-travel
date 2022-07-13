@@ -14,4 +14,4 @@
 * Подключить прогноз погоды
 * Подключить интерактивную карту России
 
-[Ссылка на веб-сайт](https://dolka84.github.io/russian-travel/)
+[Ссылка на веб-сайт](https://omaykova.github.io/russian-travel/)
