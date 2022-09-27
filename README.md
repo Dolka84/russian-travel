@@ -1,17 +1,17 @@
-# **Проектная работа: Путешествие по России**
+# **Project work: A trip to Russia**
 
-Работа представлена одностраничным сайтом, созданным по макету из Figma. Сайт описывает разные регионы России. Страница адаптирована под различные экраны и устройства.
+The work is presented by a one-page website created based on a layout from Figma. The site describes different regions of Russia. The page is adapted to different screens and devices.
 
-## Технологии
+## Technologies
 * HTML
 * CSS
 * БЭМ
 * Flexbox
 * Grid Layout
 
-## Дальнейшие улучшения
-* Добавить новые места
-* Подключить прогноз погоды
-* Подключить интерактивную карту России
+## Further improvements
+* Add new places
+* Connect the weather forecast
+* Connect an interactive map of Russia
 
-[Ссылка на веб-сайт](https://omaykova.github.io/russian-travel/)
+[Link](https://omaykova.github.io/russian-travel/)
